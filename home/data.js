@@ -28,7 +28,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "車站入口",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
