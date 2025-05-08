@@ -168,7 +168,14 @@ var APP_DATA = {
           "target": "2-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [ 
+	{
+          "yaw": 3.0074187579085248,
+          "pitch": -0.16042310978046181,
+          "title": "台鐵便當",
+          "text": "車站或列車內販售之鐵路便當"
+    }
+	]
     },
     {
       "id": "4-",
