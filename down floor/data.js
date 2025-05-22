@@ -80,7 +80,14 @@ var APP_DATA = {
           "target": "0-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+	  {
+          "yaw": -2.279709454868181,
+          "pitch": -0.10886630773557116,
+          "title": "日本美妝店",
+          "text": "Text"
+        }
+		]
     },
     {
       "id": "2-",
